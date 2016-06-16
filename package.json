@@ -1,0 +1,17 @@
+{
+  "name": "lazy",
+  "version": "0.0.1",
+  "description": "lazy<T>",
+  "main": "built/lazy.js",
+  "typings": "built/lazy.d.ts",
+  "scripts": {
+    "test": "mocha built",
+    "build": "tsc -p ."
+  },
+  "author": "D10221",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
