@@ -1,5 +1,5 @@
 {
-  "name": "lazy",
+  "name": "lazyt",
   "version": "0.0.1",
   "description": "lazy<T>",
   "main": "built/lazy.js",
